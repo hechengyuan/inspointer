@@ -1,6 +1,6 @@
 ## Handbook of InsPointer
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1g2p9qe4rarj31f20gctb3.jpg)
+![](https://ws3.sinaimg.cn/large/006tNc79gy1g2pfl3hxi0j31f20gc0uu.jpg)
 
 In 21 century, if you want to become excellent, you must have your own works. InsPointer is a tool to track your works. It seems like `git`, when you're going to write or have written some things, you can generate an unique identification code, and add it to your work, the work will be track by InsPointer.
 
@@ -17,11 +17,11 @@ Now, it's just a minimum viable product, developed by python. I imagine that in 
 
 This is an Alfred tool which can generate an unique identification code, and record it as `.csv`. The record is bind with recording time, and using time.
 
-Firstly, if you have Alfred, you should download the alfred workflow [by click](https://www.github.com/) . Then install it.
+Firstly, if you have Alfred, you should download the alfred workflow [by click](https://github.com/hechengyuan/inspointer/blob/master/inspointer.alfredworkflow?raw=true) . Then install it.
 
 Then you can call out Alfred and input `inspointer` and the time which you use in creating. Such as this:
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1g2pf37xx5lg30go04kk17.gif)
+![](https://ws3.sinaimg.cn/large/006tNc79gy1g2pflfyaeug30go04kguf.gif)
 
 When you click `Enter`, the unique code will be copied to your clipboard, like this:
 
@@ -31,7 +31,7 @@ When you click `Enter`, the unique code will be copied to your clipboard, like t
 
 第一个版本是一个alfred的workflow插件，他会生成一个独特的id，并记录你完成作品需要的时间和当下的时间点。
 
-首先，如果你有Alfred，那么[点击下载](https://www.github.com/),然后双击安装。之后，呼出Alfred的输入框，输入`InsPointer`和完成作品所需的时间，就像上面的图那样。
+首先，如果你有Alfred，那么[点击下载](https://github.com/hechengyuan/inspointer/blob/master/inspointer.alfredworkflow?raw=true),然后双击安装。之后，呼出Alfred的输入框，输入`InsPointer`和完成作品所需的时间，就像上面的图那样。
 
 最后，插件会帮你把唯一编码复制到剪贴板，粘贴即可。
 
